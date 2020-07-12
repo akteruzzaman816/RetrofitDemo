@@ -1,4 +1,4 @@
-package com.akter.retrofitdemo;
+package com.akter.retrofitdemo.retrofit;
 
 import java.util.concurrent.TimeUnit;
 
@@ -8,7 +8,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RetrofitClient {
 
-    private static final String BASE_URL="https://offer.bdtask.com/V1/";
+    private static final String BASE_URL="https://raw.githubusercontent.com/akteruzzaman816/RetrofitDemo/master/";
 
     public static Retrofit getRetrofit() {
         OkHttpClient.Builder httpClient = new OkHttpClient.Builder()
