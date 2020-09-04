@@ -1,0 +1,58 @@
+[
+  {
+    "category": "Shrubs",
+    "price": 15.99,
+    "instructions": "Large double. Good grower, heavy bloomer. Early to mid-season, acid loving plants. Plant in moist well drained soil with pH of 4.0-5.5.",
+    "photo": "california_snow.jpg",
+    "name": "Azalea",
+    "productId": 1
+  },
+  {
+    "category": "Container Plants",
+    "price": 3.99,
+    "instructions": "Compact mounds of colorful dainty flowers, good for window boxes. Fertile well drained soil.",
+    "photo": "yellow_pansy.jpg",
+    "name": "Pansy Yellow with Blotch",
+    "productId": 17
+  },
+  {
+    "category": "Container Plants",
+    "price": 25.99,
+    "instructions": "Choose the brightest windows in your house for your orchids, place on an humidity tray and spray regularly.",
+    "photo": "phalaenopsis.jpg",
+    "name": "Phalaenopsis Purple",
+    "productId": 18
+  },
+  {
+    "category": "Cacti & Succulents",
+    "price": 12.99,
+    "instructions": "These plants blend in among the stones as a means of protection. Grazing animals would otherwise eat them.",
+    "photo": "lithops.jpg",
+    "name": "Lithops",
+    "productId": 31
+  },
+  {
+    "category": "Cacti & Succulents",
+    "price": 55.99,
+    "instructions": "The Mexican Fence Post will eventually reach 20 feet tall. Protect the growing tips with Styrofoam cups on the tops.",
+    "photo": "mexican_fencepost_cactus.jpg",
+    "name": "Pachycereus Marginatus",
+    "productId": 32
+  },
+  {
+    "category": "Cacti & Succulents",
+    "price": 25.99,
+    "instructions": "Growing as a large roughly spherical globe, it may eventually reach over a meter in height after many years.",
+    "photo": "mexican_golden_barrel_cactus.jpg",
+    "name": "Echinocactus Grusonii",
+    "productId": 33
+  },
+  {
+    "category": "Cacti & Succulents",
+    "price": 16.99,
+    "instructions": "The plants should be kept almost completely dry during the winter months, once a month should be fine.",
+    "photo": "opuntia_cactus.jpg",
+    "name": "Opuntia Falcata",
+    "productId": 34
+  }
+]
