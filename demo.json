@@ -1,4 +1,4 @@
-{
+[
   {
     "category": "Shrubs",
     "price": 15.99,
@@ -56,4 +56,4 @@
     "productId": 34
   }
 
-}
+]
