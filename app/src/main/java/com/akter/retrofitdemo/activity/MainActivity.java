@@ -28,8 +28,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        getSupportActionBar().setTitle("Flowers");
+
         //initialize apiInterface
-        apiInterface = RetrofitClient.getRetrofit().create(ApiInterface.class);
+        apiInterface = RetrofitClient.getRetrofit("https://raw.githubusercontent.com/akteruzzaman816/RetrofitDemo/master/").create(ApiInterface.class);
 
         recyclerView = findViewById(R.id.recyclerView);
 

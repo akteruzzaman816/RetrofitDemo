@@ -8,9 +8,9 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RetrofitClient {
 
-    private static final String BASE_URL="https://raw.githubusercontent.com/akteruzzaman816/RetrofitDemo/master/";
+    //private static final String BASE_URL="https://raw.githubusercontent.com/akteruzzaman816/RetrofitDemo/master/";
 
-    public static Retrofit getRetrofit() {
+    public static Retrofit getRetrofit(String BASE_URL) {
         OkHttpClient.Builder httpClient = new OkHttpClient.Builder()
                 .callTimeout(2, TimeUnit.MINUTES)
                 .connectTimeout(20, TimeUnit.SECONDS)
